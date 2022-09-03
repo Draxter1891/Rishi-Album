@@ -27,7 +27,7 @@
     content:"";
     position: absolute;
     width: 100%;
-    height: 727rem;
+    height: 430.7rem;
     z-index: -1;
     opacity:0.5;
     background:repeating-linear-gradient(45deg, rgb(228, 160, 160), transparent 200px);
@@ -48,7 +48,6 @@
     height: auto;
     border: 3px solid aliceblue;
     border-radius: 0.5rem;
-    padding: 19px 5px;
     margin: 18px 22px -12px;
 }
 /* Client Section */
